@@ -14,3 +14,6 @@ pip install matplotlib tqdm jupyter ipywidgets scikit-learn pettingzoo==1.22.3 p
 # Set up for the Atari environments and install the ROMs (Linux)
 pip install "autorom[accept-rom-license]"
 AutoROM
+
+# Record videos of the environments
+pip install opencv-python
